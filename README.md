@@ -12,6 +12,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wolf4032/machine-learning/blob/main/001.ipynb)
 
+[使用したデータセット](https://www.kaggle.com/competitions/playground-series-s4e11/data)
+
 ## 実務を想定した実装
 
 実務では主に、以下の３つが求められると考えました。
