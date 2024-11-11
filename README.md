@@ -12,8 +12,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wolf4032/machine-learning/blob/main/001.ipynb)
 
-[使用したデータセット](https://www.kaggle.com/competitions/playground-series-s4e11/data)
-
 ## 実務を想定した実装
 
 実務では主に、以下の３つが求められると考えました。
@@ -41,4 +39,11 @@
 
 ### モデルの作成
 交差検証で、ハイパーパラメータをチューニングしたのち、データセット全体で学習しました。
+
+## データセットについて
+
+このプロジェクトはKaggleの[Playground Series S4E11 コンペティション](https://www.kaggle.com/competitions/playground-series-s4e11)から提供されたデータを使用しています。このデータセットは[CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)に基づき公開されています。
+
+このリポジトリにはデータや予測結果のCSVは含まれておらず、分析コードと説明のみが含まれています。データセットはKaggle上で取得してください。
+
 
